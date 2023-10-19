@@ -1,0 +1,1519 @@
+@import url('https://fonts.googleapis.com/css?family=Raleway:400,500,700,800,900');
+
+.mobile_div {
+	top: 0px;
+	position: relative;
+}
+.stick .mobile_div {
+	top: 0;
+	position: relative;
+}
+#home .section h1 {
+    letter-spacing: 2px;
+}
+#home .section#home-content h1 {
+    padding-bottom: 15px;
+}
+#home .section {
+	padding: 100px 0;
+}
+#home section#home-entry {
+    
+}
+#home .section#home-content{
+    
+}
+#home .section#home-collections{
+	background-color: #f4f4f4 !important;
+    padding-bottom: 30px;
+}
+
+#home .section#home-services{
+	/*padding-top:0px;*/
+}
+.home-collection-h1 {
+	font-size: 30px;
+	padding: 0 0 50px 0;
+}
+.home-collection-p {
+   color: #333a40;
+}
+.sa_owl_theme .owl-nav div, .sa_owl_theme .owl-nav button {
+	top: 58% !important;
+	
+}
+#template-default {
+    padding: 0;
+}
+.container.text-center {
+	text-align: center;
+	
+}
+.zoom_effect .vc_column-inner:hover {
+    background-size: 105% 105% !important;
+}
+.zoom_effect .vc_column-inner {
+    background-size: 100% 100% !important;
+    transition: all 0.1s linear;
+}
+.section.nopad {
+	padding: 100px 0px !important;
+	padding-bottom: 20px !important;
+	max-width: 700px;
+	margin: 0 auto;
+}
+
+.section.nopad h3 {
+	text-transform: uppercase;
+	font-size: 21px !important;
+	font-weight: 600 !important;
+	margin-top: 20px !important;
+}
+.left {
+	float: left;
+	text-decoration: none;
+	color: black;
+	font-weight: 700;
+}
+.right {
+	float: right;
+	text-decoration: none;
+	color: black;
+	font-weight: 700;
+}
+.right span {
+
+	position: relative;
+	top: -2px;
+	margin-left: 15px;
+}
+.container.text-center #template-contact h3 {
+	border-top: 2px solid #ECECEC;
+	/* margin-top: -16p !important; */
+	padding-top: 58px !important;
+	max-width:  !important;
+	margin: 21px auto !important;
+}
+.left span {
+	
+	position: relative;
+	top: -2px;
+	margin-right: 15px;
+}
+.section.nopad p {
+	max-width: 466px;
+	text-align: ;
+	margin: 0 auto;
+	font-size: 16px !important;
+	font-weight: 500 !important;
+}
+.placeholder {
+	margin-top: 13px;
+	margin-left: 0px;
+	margin-right: 11px;
+	
+} 
+.placeholder {
+	text-transform: uppercase;
+	font-size: 13px;
+}
+
+.gform_heading {
+	display: none;
+}
+.gform_wrapper form {
+	padding-top: 20px !important;
+}
+.tax-collection #listing-filter {
+	display: none;
+}
+/* gravity form styling */
+ 
+#popup-menu {
+	z-index: 999999999999;
+}
+.form-favorite .ginput_container input, .form-favorite .ginput_container textarea {
+	height: 42px;
+	padding: 0 10px !important;
+	color: #4c4c4c;
+	border: solid 1px #ededed;
+	width: 100% !important;
+	margin: 0 !important;
+	text-align: left;
+}
+form .arrival input:focus {
+	width: 48%;
+	margin-right: 4%;
+	background: url(../img/picto.png) no-repeat right -115px #fff !important;
+	background-size: 51px !important;
+	cursor: pointer;
+	font-size: 13px !important;
+	text-align: left !important;
+}
+
+
+.form-favorite li.field_sublabel_below.field_description_below label {
+	color: #4c4c4c;
+	font-size: 14px;
+	font-weight: 500;
+	display: block !important;
+	margin-bottom: 4px;
+	text-align: left;
+	margin-top: unset !important;
+} 
+
+.custom_righto {
+	width: 50% !important;
+	float: none;
+	display: inline-block;
+	padding: 0 !important;
+	margin: 0 !important;
+}
+
+.ui-datepicker-trigger {
+	display: none !important;
+}
+.custom_righto .gfield_description {
+	display: none;
+}
+.custom_lefto {
+	width: 24% !important;
+	float: none;
+	text-align: left !important;
+	display: inline-block;
+	margin: 5px !important;
+	background: transparent !important;
+	margin-top: 16px !important;
+}
+.form-favorite .gform_button.button {
+	display: block !important;
+	width: 100% !important;
+	border: solid 2px #f6c9c9 !important;
+	background: #f6c9c9 !important;
+	height: 45px;
+	font-size: 16px !important;
+	text-align: center;
+	line-height: 8px;
+	text-decoration: none;
+	text-transform: uppercase !important;
+	font-weight: 500 !important;
+	color: #fff;
+	transition: all .3s ease-out !important;
+	margin-top: 16px !important;
+	cursor: pointer !important;
+}
+body .form-favorite #field_8_8  , body .form-favorite #field_8_4 , body .form-favorite #field_8_2{
+	padding-right: 0px !important;
+}
+
+.desc a {
+	color: black;
+	text-decoration: none;
+}
+.contactus-page-form #contact-content h4 {
+	padding-bottom: 10px !important;
+}
+
+/*
+.zoom_effect .vc_column-inner {
+    background-size: 100% 100% !important;
+    transition: all 0.1s linear;
+}
+*/
+.single-villa .section#single-local-area #single-local-area-content article .text b, .single-villa .section#single-local-area #single-local-area-content article .text strong {
+    font-weight: normal;
+}
+.template #template-header #template-header-content h2 {
+    margin: 30px 0;
+    padding-bottom: 30px;
+    font-size: 36px;
+    text-transform: uppercase;
+    position: relative;
+    font-family: raleway;
+}
+.template #template-header #template-header-content h2:after {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    left: 50%;
+    width: 80px;
+    height: 1px;
+    background: #fff;
+    transform: translateX(-50%);
+}
+.template#template-default #transfert-content article h3 {
+    font-family: Raleway;
+    font-size: 30px;
+    line-height: 36px;
+    text-align: center;
+    color: #000;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin: 0 0 40px 0;
+}
+.template#template-default #transfert-content article .article-content {
+    font-size: 18px;
+    line-height: 24px;
+    text-align: center;
+    margin: 0 auto 40px;
+    text-align: center;
+    color: #000;
+    width: 80%;
+}
+.raleway {
+    font-family: Raleway;
+}
+.bolder {
+    font-weight: 900;
+}
+.uppercase {
+    text-transform: uppercase;
+}
+.p-content {
+    font-size: 18px;
+    color: #000;
+    line-height: 34px;
+}
+li.vc_tta-tab {
+    background: #f5f5f5;
+    color: #000;
+    width: 50% !important;
+    padding: 0 !important;
+    margin: 0 !important;
+}
+#template-content li.vc_tta-tab.vc_active {
+    background: #ffffff;
+}
+
+.page #template-content li.vc_tta-tab a {
+    border: none;
+    border-bottom: 1px solid #9c9c9c;
+}
+.page #template-content li.vc_tta-tab.vc_active a {
+    border: 1px solid #9c9c9c;
+    border-bottom: none;
+}
+.page #template-content li.vc_tta-tab a {
+    color: #000 !important;
+    font-size: 30px;
+    text-transform: uppercase;
+    font-family: didot;
+    border: none;
+    border-bottom: 1px solid #9c9c9c;
+        margin-top: 1px;
+}
+.vc_tta-panels-container {
+    border: 1px solid #9c9c9c;
+    border-top: 0;
+    margin-left: -1px;
+    margin-top: -1px;
+}
+
+.vc_tta-panel-body {
+    width: 92%;
+    margin: 40px auto;
+    color: #000;
+    font-size: 20px;
+    line-height: 32px;
+}
+.vc_tta-panel-body ul {
+    list-style: disc !important;
+    margin-left: 20px;
+}
+.vc_tta-panel-body ul li {
+    margin-bottom: 12px;
+}
+ul.vc_tta-tabs-list {
+    text-align: center;
+}
+.template#template-default #transfert-content {
+    padding: 60px 0 0 0;
+}
+.template#template-default #transfert-baseline {
+    padding: 60px;
+    border-bottom: solid 1px #9c9c9c;
+}
+.template#template-default #transfert-baseline h2 {
+    font-size: 36px;
+    line-height: 42px;
+    text-align: center;
+    color: #000;
+}
+.home-collection-p {
+    text-align: center;
+    font-size: 16px;
+    line-height: 30px;
+    font-weight: 300;
+    letter-spacing: 1px;
+}
+ul#breadcrumbs {
+    text-align: center;
+}
+
+ul#breadcrumbs li {
+    display: inline-block;
+    padding: 0 5px;
+    font-size: 15px;
+}
+section#home-collections {
+background: url('https://onestbarths.wpengine.com/wp-content/uploads/2018/12/background-image-homecollection.jpg') !important; 
+	background-size: cover !important;
+	background-repeat: no-repeat !important;
+}
+
+
+#home .section#home-collections #home-collections-content article .text p.desc {
+    font-size: 16px;
+        line-height: 40px;
+}
+#home .section#home-collections #home-collections-content article figure {
+	height: 470px;
+}
+#home .section#home-collections #home-collections-content article .text {
+    width: 50%;
+    height: 100%;
+    padding: 0 6%;
+    position: relative;
+}
+#home .section#home-collections #home-collections-content article {
+	margin-top: 40px;
+    background-color: #fff;
+}
+
+#home .section#home-collections #home-collections-content article:nth-child(2n) figure {
+	order: 1; 
+}
+
+#home .section#home-collections #home-collections-content article .text h4 {
+    text-align: left;
+    margin: 0px 0 6px;
+    font-size: 40px;
+    font-style: italic;
+    text-transform: capitalize;
+}
+
+#home .section#home-collections #home-collections-content article .text h4::after {
+    content: " ";
+    border-bottom: 1px solid black;
+    position: absolute;
+    right: 12%;
+    height: 1px;
+    width: 29%;
+    top: 6%;
+    display: none;
+}
+
+div#home-collections-content article .text h3 {
+    text-align: left;
+    font-size: 30px;
+    color: #efcbca;
+    text-transform: capitalize;
+    letter-spacing: 3px;
+}
+#home .section#home-collections #home-collections-content article .text p.desc {
+	text-align: left;
+	padding: 0;
+}
+.template {
+    padding-bottom: 0;
+}
+#home .section#home-collections #home-collections-content article .text .collections-link {
+    margin-top: 53px;
+    color: #efcbca;
+    text-align: left;
+    border: 3px solid #efcbca;
+    display: inline-block;
+    
+    font-size: 18px;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    width: 100%;
+    max-width: 355px;
+    text-align: center;
+}
+#home .section#home-collections #home-collections-content article .text .collections-link a {
+    display: block;
+    color: #f6c9c9;
+    border-color: #f6c9c9;
+    text-decoration: none;
+    margin: 0;
+    padding: 25px 70px;
+    padding: 25px 0;
+    text-align: center;
+}
+#home .section#home-collections #home-collections-content article .text .collections-link a {
+	color: #fff;
+    background: #f6c9c9;
+}
+#home .section#home-collections #home-collections-content article .text .collections-link a:hover {
+	color: #f6c9c9;
+    background: #fff;
+}
+.contactus-page-header {
+	
+}
+
+.template#template-contact #contact-form .clearfix {
+	padding-bottom: 65px;
+}
+
+.template#template-contact #contact-content h4 {
+	padding-bottom: 100px;
+}
+
+.template #template-header #template-header-content a {
+	    padding-bottom: 20px;
+}
+
+.single-villa .section#single-content p {
+/* 	 letter-spacing: 2.0px; */
+	 padding: 0 25px 0 25px;
+}
+
+#single-parallax article .caption .subtitle {
+	margin-bottom: 15px;
+}
+
+.single-villa .section#single-book #single-book-content {
+	margin-top: 0px;
+	line-height: 20px;
+}
+
+#booking-container #single-booking form input {
+	text-align: center;
+}
+
+form#booking-form {
+	text-align: center;
+}
+
+.template #template-header {
+		position:static;
+    width: 100%;
+    height: 700px;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center center;
+    display: flex;
+    justify-content: center;
+    align-items: center;margin-top: 60px;
+}
+
+.template #template-header #template-header-content {
+	position: static;
+	text-align: center !important;
+	    transform: none;
+}
+
+.template #template-content {
+	position: static;
+}
+
+#template-contact {
+    padding-bottom: 0;
+}
+
+.template#template-contact #template-header #template-header-content p:after {
+ bottom: auto;
+}
+
+.page-template-template-contact input::placeholder {
+  color: #c9c9c9;
+  color: #333;
+}
+
+
+#work-with-us{
+	padding-bottom: 0;
+}
+
+#work-with-us h1 {
+	font-size: 28px;
+	line-height: 35px;
+	text-align: center;
+	font-family: 'Major Mono Display', Sans-serif;
+	    font-weight: 100;
+    letter-spacing: 3px;
+}
+
+#work-with-us .container-fluid div{
+	display: flex;
+	flex-wrap: wrap;
+	justify-content:center;
+	align-items: center;
+}
+
+#work-with-us .container-fluid div div {
+    width: 33%;
+		height: 60em;
+}
+
+
+#work-with-us .container-fluid div {
+    background: #696969;
+}
+
+#work-with-us .container-fluid div:nth-child(odd) {
+    background: grey;
+}
+
+#work-with-us a { 
+	color:white;
+	text-decoration: none;
+}
+
+.wordwithus-underline{
+	width: 100px;
+}
+
+#work-with-us h1:after {
+    border-bottom: 1px solid white;
+    content: "";
+    padding-left: 71px;
+}
+
+.main-inner-heading {
+	font-size: 40px;
+}
+
+.inner-page-header-text {
+	font-size: 20px;
+}
+
+.black-font {
+		color: #000;
+}
+
+.carrer-text {
+		font-size: 26px;
+}
+
+.section-3-heading {
+		font-size: 22px;
+		font-weight: bold;
+}
+
+.section-3-text {
+	  line-height: 2em;
+    font-weight: 100;
+} 
+
+.ginput_container input, .ginput_container textarea {
+    border: none;
+    text-align: center;
+    border-bottom: 1px solid black;
+    font-family: Raleway;
+    font-size: 24px !important;
+    font-weight: 800 !important;
+    text-transform: uppercase;
+    color: #c9c9c9;
+		margin-top: 60px !important;
+		outline:none;
+	    line-height: -0px;
+		padding: 25px 0 !important; 
+		transition: all .2s ease-in;
+}
+#template-contact .gform_wrapper input {
+    font-size: 24px !important;
+}
+#template-contact .gform_wrapper ul.gform_fields li.gfield {
+    padding-right: 0;
+}
+
+.ginput_container input:focus {
+	background: #fafafa;
+}
+
+.ginput_container input::placeholder {
+    font-size: 24px;
+    font-weight: 800 !important;
+    /*color: #c9c9c9;*/
+    color: #757575;
+    letter-spacing: 1px;
+}
+.template#template-contact #contact-form a {
+
+    font-family: Didot,sans-serif,Arial;
+}
+.gform_wrapper input.gform_button {
+    width: 100% !important;
+    margin-right: 0 !important;
+    padding: 0;
+    border: 2px solid black;
+    
+    font-weight: bolder;
+    font-family: Didot,sans-serif,Arial;
+    transition: all .3s ease-out;
+    outline: none;
+    margin-top: 60px !important;
+    font-family: Didot;
+    text-transform: uppercase;
+    background: transparent;
+}
+ form .gform_button {
+	font-size: 30px !important;
+	font-family: "Raleway" !important;
+	color: rgb(0, 0, 0);
+	text-transform: uppercase !important;
+	line-height: 2.669;
+	text-align: center;
+}
+
+.gform_wrapper input.gform_button:hover {
+	background-color: #f6c9c9;
+	    border-color: #f6c9c9;
+	color: #fff;
+}
+
+.gform_wrapper li.hidden_label input {
+	margin-top: 30px;
+}
+
+.wpb-js-composer .vc_tta.vc_tta-spacing-1 .vc_tta-tab {
+		margin:0;
+    font-size: 21px;
+    width: 49%;
+}
+
+.work-withus-headings {
+	  font-size: 48px;
+    font-weight: 100;
+    line-height: 60px;
+}
+
+.work-withus-headings div h1:after {
+    border-bottom: 1px solid #fff;
+    content: " ";
+    display: block;
+    width: 90px;
+    text-align: center;
+    margin: 40px auto;
+}
+
+.gform_wrapper li.gfield.gfield_error, .gform_wrapper li.gfield.gfield_error.gfield_contains_required.gfield_creditcard_warning{
+	background: none;
+	border-top: 0;
+}
+
+/* .single-villa .section#single-rates #single-rates-content .villa_rates_footer {
+	width: 500px;
+}
+ */
+.single-villa .section#single-ggmap {
+	    height: 80vh;
+}
+strong, b {
+    font-weight: bold;
+}
+section#home-collections h1 {
+    padding-bottom: 10px;
+}
+#home .section#home-content .container {
+    max-width: 67%;
+}
+#home .section#home-content p {
+    margin-top: 30px;
+    letter-spacing: 1px;
+    font-weight: unset;
+    font-size: 16px;
+    line-height: 32px;
+    color: #000 !important;
+    word-spacing: 1px;
+    opacity: 1;
+}
+#home .section p.desc {
+    font-weight: unset;
+}
+.main-inner-heading h1:after {
+    content: "";
+    border-bottom: 2px solid white;
+    display: block;
+    width: 50px;
+    text-align: center;
+    margin: 60px auto;
+}
+
+.single-villa .section#single-content b, .single-villa .section#single-content strong {
+    font-size: 15px;
+    line-height: 30px;
+    font-weight: 100;
+    margin-top: 45px;
+}
+.single-villa .section#single-content p {
+    font-size: 12px;
+    font-weight: 300;
+    letter-spacing: .5px;
+    line-height: 30px;
+}
+.gform_wrapper .field_description_below .gfield_description {
+    color: #000;
+    text-align: left;
+}
+li.field_sublabel_below.field_description_below {
+    text-align: center;
+}
+.single-villa .section p {
+	    margin: 0 0 37px 0;
+}
+.template#template-philosophy #philosophy-content.meet-team article figure {
+    border-radius: 0;
+    width: 48%;
+}
+.template#template-philosophy #philosophy-content.meet-team article .article-content h3 {
+    text-transform: none;
+}
+.template#template-philosophy #philosophy-content.meet-team article .article-content h4 {
+    font-family: raleway;
+    font-size: 22px;
+    font-weight: normal;
+    color: #000;
+    margin-bottom: 40px;
+    line-height: 10px;
+}
+.template#template-philosophy #philosophy-content.meet-team article .article-content .article-baseline {
+    font-family: raleway;
+    font-size: 24px;
+    margin-bottom: 15px;
+}
+#philosophy-content.meet-team article .article-content .contact-email, #philosophy-content.meet-team article .article-content .contact-number {
+    font-weight: 600;
+    font-size: 18px;
+    margin-bottom: 10px;
+}
+#philosophy-content.meet-team article .article-content .contact-email a, #philosophy-content.meet-team article .article-content .contact-number a {
+    color: #000;
+    text-decoration: none;
+}
+
+input.gform_button_select_files {
+    background: #f6c9c9;
+    color: #fff;
+    font-weight: normal;
+    text-transform: uppercase;
+    font-size: 16px !important;
+    border: none;
+    padding: 20px 30px !important;
+    width: 22%;
+    margin: 0px !important;
+}
+.gform_wrapper span.gform_drop_instructions {
+    display: block;
+    margin-bottom: 8px;
+    color: #c9c9c9;
+    text-transform: uppercase;
+}
+.single-villa .section#single-details #single-details-content p {
+	line-height: 28px;
+}
+
+.single-villa .section#single-services {
+	background: #f7f7f7;
+}
+
+#home .section#home-experiences #home-experiences-content article {
+    width: 24%;
+		display: inline-block;
+    margin: 0 0.5% 1% 0.5%;
+    text-decoration: underline;
+    position: relative;
+}
+
+.footer-bottom-logo-svg {
+	    filter: invert(40%) sepia(1%) saturate(0%) hue-rotate(357deg) brightness(92%) contrast(85%);
+	    width: 220px;
+}
+
+.footer-bottom-logo-div {
+	display: flex;
+	justify-content: center;
+}
+
+div#booking-content div img {
+    padding-bottom: 30px;
+}
+
+
+
+.cs-select > span::after {
+    content: '\25BE' !important;
+    right: 1em;
+}
+
+
+.cs-skin-border > span {
+	  border: 1px solid #000 !important;
+/*     border-radius: 6px !important; */
+    padding: 15px 15px !important;
+/*     margin: 2px !important; */
+}
+
+div.cs-select {
+	width: inherit !important;
+}
+
+.single-villa .section#single-rates #single-rates-content .villa_rates_filter span {
+	width: 135%;
+}
+
+div.cs-skin-border {
+	 margin-left: 30px; 
+}
+.white-logo {
+    text-align: center;
+}
+.single-villa .section#single-rates #single-rates-content .villa_rates_filter {
+		float: right;
+}
+footer #footer-top #footer-3 .mc4wp-form input[type=email] {
+    border-radius: 0;
+}
+#booking-inquire-call {
+    color: #f6c9c9;
+    text-transform: uppercase;
+    padding: 18px;
+    display: block;
+    border: 1px solid #f6c9c9;
+    margin-top: 10px;
+    text-decoration: none;
+}
+#booking-inquire-call:hover {
+    background: #fff;
+    color: #f6c9c9;
+}
+.cs-skin-border .cs-options {
+	color: #000 !important;
+}
+
+.cs-skin-border.cs-active > span {
+	color: #000 !important;
+}
+
+
+.cs-select .cs-options {
+	width: inherit !important;
+
+}
+
+.cs-options ul {
+    border: 1px solid #000;
+		border-top: 0;
+}
+
+.cs-select ul {
+/* 	padding: 2px !important; */
+	  width: 74px !important;
+}
+
+.cs-select.cs-skin-border.cs-active div ul li {
+    list-style-type: none;
+/* 		border-bottom: 1px solid black; */
+}
+
+.cs-select.cs-skin-border.cs-active div ul + ul {
+    padding: 0 13px !important;
+} 
+
+.villa_rates_filter div + div ul {
+/*     padding: 0 13px !important; */
+	    width: 153px !important;
+}
+
+.cs-skin-border .cs-options li span:hover,
+.cs-skin-border li.cs-focus span {
+	background: #fff !important;
+}
+
+.single-rates-content-span {
+    float: left;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-size: 10px;
+    margin-top: 16px;
+}
+.single-villa .section#single-rates #single-rates-content table tbody tr td b {
+    display: block;
+    font-weight: 500;
+    line-height: 22px;
+    font-size: 16px;
+}
+.single-villa .section#single-rates #single-rates-content .villa_rates_footer {
+    font-size: 10px;
+    font-weight: 500;
+}
+.template#template-contact #template-header #template-header-content p {
+    text-transform: lowercase;
+}
+.template#template-contact #template-header #template-header-content h1 {
+     margin: 0;
+}
+#single-parallax article .caption .title-top {
+    font-size: 11px;
+    font-weight: normal;
+    letter-spacing: 1px;
+        margin-bottom: 90px;
+}
+#single-parallax article .caption .title {
+    letter-spacing: 5px;
+}
+#single-parallax article .caption .title-top:after {
+    background-color: #fff;
+    bottom: -40px;
+    content: "";
+    display: inline-block;
+    height: 1px;
+    left: 50%;
+    position: absolute;
+    width: 100px;
+    transform: translateX(-50%);
+}
+#single-parallax article .caption .subtitle {
+    margin-bottom: 85px;
+    letter-spacing: 1px;
+}
+.single-villa .section h3 {
+
+    text-transform: capitalize;
+}
+.single-villa .section#single-content {
+    background: #fff;
+    text-align: center;
+    padding: 80px 0 0px;
+}
+.single-villa .section#single-local-area #single-local-area-content article .text {
+    padding: 0 50px;
+}
+#single-parallax article #diaporama i.new-expand {
+    background: url(../img/click-zoom.png) no-repeat;
+    width: 31px;
+    height: 25px;
+    border: none;
+}
+#single-parallax article #diaporama p {
+    text-transform: none;
+}
+#suggestion #suggestion-header #suggestion-header-content {
+    width: 100%;
+}
+#suggestion #suggestion-header #suggestion-header-content h1 {
+    margin: 50px 0 30px;
+}
+.single-suggestion article.card .booking-inquire:hover {
+    background: #fff;
+    color: #f6c9c9;
+}
+.single-suggestion article.card .booking-inquire {
+    background: #f6c9c9;
+    color: #fff;
+    text-transform: uppercase;
+    font-size: 20px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    padding: 20px;
+    display: block;
+    margin: 25px auto 0px;
+    width: 50%;
+    text-align: center;
+    float: none;
+    text-decoration: none;
+    border: 1px solid #f6c9c9;
+    display: none;
+}
+.ginput_preview {
+    color: gray;
+    width: 100%;
+    display: block;
+}
+.bottom_line:after {
+    content: ' ';
+    display: block;
+    height: 2px;
+    background: #fff;
+    width: 30%;
+    margin: 40px auto 0;
+}
+div#suggestion-villa-filter #suggestion-villa-filter-left {
+    display: none;
+}
+#suggestion #suggestion-content #suggestion-villas #suggestion-villa-filter #suggestion-villa-filter-right a.active {
+    display: none;
+}
+.card .comments-villa p b {
+    font-weight: bold;
+    letter-spacing: 1px;
+}
+.card .total-villa p b {
+    letter-spacing: 1px;
+}
+.card .total-villa em {
+    letter-spacing: 1px;
+}
+.card .comments-villa p span {
+    min-height: 50px;
+}
+#suggestion #suggestion-header #suggestion-header-content p {
+    letter-spacing: 1px;
+}
+.single-villa .section#single-rates #single-rates-content .villa_rates_filter select {
+    height: 40px;
+    padding: 0 50px 0 20px;
+    border: solid 1px #000;
+    font-size: 16px;
+    font-weight: normal;
+    text-transform: uppercase;
+    display: inline-block;
+    vertical-align: middle;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    background: url(../img/select-icon.svg) no-repeat calc(100% - 15px) center;
+    cursor: pointer;
+    border-radius: 0;
+    margin-left: 20px;
+}
+li.field_sublabel_below.field_description_below label {
+    font-size: 24px;
+    color: #c9c9c9;
+    text-transform: uppercase;
+    font-weight: 900;
+    margin-top: 70px;
+    margin-bottom: 10px;
+}
+
+footer #footer-bottom #footer-bottom-bottom a {
+    color: #0f0f0f;
+}
+
+.mw_content {
+    color: #7e7e7e;
+    font-family: Raleway;
+    width: 660px;
+    margin: 100px auto;
+    font-size: 16px;
+    line-height: 32px;
+    letter-spacing: 1px;
+}
+.mw_content h2 {
+    color: #000000;
+    font-size: 24px;
+    font-family: "Didot", sans-serif, Arial;
+    margin-bottom: 30px;
+}
+.mw_content em {
+    font-style: italic;
+}
+.mw_content p {
+    margin-bottom: 40px;
+}
+.mw_content a {
+    color: #7e7e7e;
+    font-weight: bold;
+    text-decoration: none;
+}
+
+#gform_wrapper_11 {
+    width: 660px;
+    margin: auto;
+}
+.template#template-contact #gform_wrapper_11 form {
+    padding-left: 0;
+    padding-right: 0;
+}
+#gform_wrapper_11 .gfield label {
+    display: none;
+}
+#gform_wrapper_11.gform_wrapper .gfield input {
+    text-align: left;
+    text-transform: none;
+    font-family: "Didot", sans-serif, Arial;
+	padding-left: 0px !important;
+}
+#gform_wrapper_11.gform_wrapper .gfield input:focus {
+	background-color: transparent;
+}
+
+#gform_wrapper_11.gform_wrapper::-webkit-input-placeholder { /* Chrome/Opera/Safari */
+    color: #0f0f0f;
+}
+#gform_wrapper_11.gform_wrapper::-moz-placeholder { /* Firefox 19+ */
+    color: #0f0f0f;
+}
+#gform_wrapper_11.gform_wrapper:-ms-input-placeholder { /* IE 10+ */
+    color: #0f0f0f;
+}
+#gform_wrapper_11.gform_wrapper:-moz-placeholder { /* Firefox 18- */
+    color: #0f0f0f;
+}
+
+#gform_wrapper_11.gform_wrapper input[type="submit"] {
+    font-family: "Didot", sans-serif, Arial !important;
+    margin-top:-5px !important;
+    max-width: 180px;
+    background-color: #000000;
+    color: #fff;
+    float: right;
+    border-color: #000;
+}
+
+
+
+@media only screen and (max-width: 1280px) {
+    header#header #header-sticky a#header-logo {
+        transform: translate(-50%, -50%);
+        left: 50%;
+    }
+}
+@media only screen and (max-width: 768px) {
+.zoom_effect .vc_column-inner {
+	
+	transition: all 0.1s linear;
+	background-size: 100% !important;
+}   
+.zoom_effect .vc_column-inner:hover {
+	
+	transition: all 0.1s linear;
+	background-size: 105% !important;
+}  
+    body.home header#header #header-sticky a#header-logo {
+        transform: translate(-87%,-50%);
+    }
+    .home header#header #header-sticky #header-sticky-right a#open-booking {
+        padding: 0 20px;
+    }
+    .home header#header #header-sticky #header-sticky-right a#open-search.active {
+        width: 40px;
+    }
+
+   header#header #header-sticky a#header-logo {
+        left: 50%;
+        transform: translate(-50%,-50%);
+    }
+     .page #template-content li.vc_tta-tab a {
+        font-size: 20px;
+    }   
+    #home .section#home-content {
+        background: #fff;
+        text-align: center;
+        padding: 50px 0;
+    }
+    #home .section#home-content .container {
+        max-width: 90%;
+    }
+    #home .section {
+        padding: 90px 0;
+    }
+    #home .section#home-collections {
+        padding-top: 60px;
+    }
+    #home .section#home-collections #home-collections-content article figure {
+        width: 50%;
+    }
+    .bottom_line:after {
+        margin: 20px auto 0;
+    }
+    .font_mobile_30 {
+        font-size: 30px !important;
+        line-height: 44px !important;
+    } 
+    .page .no_padding_mobile {
+        padding: 0 !important;
+    }  
+    .page .marging_15_mobile {
+        margin: 15px;
+    }
+    .page .small_padding_mobile {
+        padding: 30px 15px !important;
+    }
+    .gform_wrapper input.gform_button {
+        padding: 10px;
+         font-size: 18px !important;
+         margin-top: 40px !important;
+    }
+    .template#template-contact #contact-form a {
+    font-family: Didot,sans-serif,Arial;
+        height: 52px;
+        line-height: 50px;
+        font-size: 18px;
+    }
+    .template #template-header {
+        height: 100vh;
+    }
+    .template #template-header #template-header-content {
+        width: 80%;
+    }
+    #template-content .vc_tta-container .vc_tta-panels-container {border: none;}
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel {
+
+    }
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel.vc_active {
+
+    }
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading {margin: 2px 0 0 0;border: none;background: #f6c9c9;font-size: 22px; display: none;}
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-body {
+        margin: 0;
+        border: none;
+        padding: 10%;
+        border: 1px solid #9c9c9c;
+        width: calc(80% - 2px);
+        border-top: none;
+    }
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-heading a {
+        color: #fff;
+    }
+    .wpb-js-composer .vc_tta.vc_tta-tabs .vc_tta-tabs-container {
+         display: block !important; 
+    }
+    #home .section#home-collections #home-collections-content article .text h4::after {
+        display: none;
+    } 
+    #home .section#home-collections #home-collections-content article .text h4 {
+        font-size: 30px;
+        width: 100%;
+        text-align: left;
+        text-transform: none;
+        font-style: normal;
+    }
+    div#home-collections-content article .text h3 {
+        text-align: left;
+        font-size: 20px;
+    }    
+    #home .section#home-collections #home-collections-content article .text {
+        width: 50%;
+        padding: 20px 6%;
+        text-align: center;
+    }
+    #home .section#home-collections #home-collections-content article .text .collections-link a {
+        display: inline-block;
+        color: #fff;
+        border-color: #f6c9c9;
+        text-decoration: none;
+        margin: 0;
+        padding: 10px 20px;
+        font-size: 14px;
+        font-weight: 500;
+    }   
+    .home-collection-p {
+        margin-bottom: 60px;
+    }   
+    header#header #header-sticky #header-sticky-right a#view-favorite, header#header #header-sticky #header-sticky-right a.add-to-fav, header#header #header-sticky #header-sticky-right a.remove-to-fav {
+        display: none;
+    }
+    header#header #header-sticky #header-sticky-right #header-date {
+        display: none;
+    }
+    header#header #header-sticky #header-sticky-right a#open-search {
+        background: #f6c9c9;
+        color: #fff;
+    }
+}
+
+@media (max-width: 576px) { 
+    .paginates a {
+    	display: block;
+    	width: 100%;
+    	margin: 19px 0px;
+    	text-align: center;
+    	float: none;
+    }
+    .section.nopad img {
+    	display: block;
+    	max-width: 100%;
+    }
+	#home .section#home-experiences #home-experiences-content article {
+		width: 100%;
+		display:block;
+	}	
+    #home .section#home-collections #home-collections-content article .text h4 {
+        text-align: center;
+    }
+    div#home-collections-content article .text h3 {
+        text-align: center;
+    }    
+    .popup .popup-content #booking-form .booking-dates .booking-date {
+        width: 100%;
+        margin: 10px 0;
+        padding: 40px 30px 20px;
+        height: auto;
+    }
+    span.date_title {
+        float: left;
+    }
+    .date-wrap {
+        float: right;
+    }
+    span.day {
+        float: left;
+        margin-right: 4px;
+        font-size: initial !important;
+    }
+    .popup .popup-header {
+        position: absolute;
+        width: 100%;
+        height: 60px;
+    }
+    .popup .container {
+        width: 100%;
+        margin-top: 25px;
+    }
+    .popup .popup-header a.popup-close {
+        position: absolute;
+        top: 22px;
+        right: 24px;
+    }
+    .popup .popup-content b.title {
+        text-align: center;
+        letter-spacing: 5px;
+        font-size: 12px;
+        text-transform: uppercase;
+        font-weight: 500;
+        position: relative;
+        font-family: Raleway;
+        display: block;
+        padding-bottom: 25px;
+        margin-bottom: 30px;
+    }
+    #booking-content .footer-bottom-logo-div {
+        display: none;
+    }
+    #booking-content .white-logo img {
+        width: 60%;
+    }
+    .popup .popup-content #booking-form .booking-dates .booking-date span.day:after {
+        display: none;
+    }
+    .popup .popup-header a.popup-close span {
+        width: 14px;
+    }
+    .popup .popup-content #booking-form .booking-validation a {
+        height: 50px;
+        line-height: 48px;
+        letter-spacing: 4px;
+        font-weight: 500;
+        font-size: 16px;
+        font-family: Raleway;
+        border: 1px solid;
+    }
+    span.date_title:after {
+        color: #fff;
+        content: "\f107";
+        font-family: FontAwesome;
+        font-size: 16px;
+        height: 20px;
+        text-transform: lowercase;
+        margin-left: 10px;
+    }
+    .popup .popup-content #booking-form .booking-dates .booking-date span.month-year {
+        float: left;
+        padding-top: 0;
+    }
+	.single-rates-content-span{
+		float: none;
+		text-align: center;
+		margin-left: 25%;
+	}
+	
+	.single-villa .section#single-rates #single-rates-content .villa_rates_filter {
+    float: none;
+    margin: 25px;
+	}
+    #booking .pickmeup .pmu-instance {
+        width: 100%;
+    }
+    #home .section#home-content {
+        width: 100%;
+        margin: 0 auto;
+    }
+    #home .section#home-collections #home-collections-content article .text {
+        width: 100%;
+        padding: 20px 6%;
+    }
+    #home .section#home-collections #home-collections-content article figure {
+        width: 100%;
+        height: 260px;
+    }
+    #home .section#home-collections #home-collections-content article .text .collections-link {
+        font-size: 18px;
+        text-align: center;
+        width: auto;
+        margin: 20px auto;
+        border: 2px solid;
+    }
+    input.gform_button_select_files {
+        width: auto;
+    }
+    #home .section#home-collections #home-collections-content article {
+        padding-bottom: 0;
+        margin-top: 30px;
+    }
+    #home .section#home-collections #home-collections-content article .text p.desc {
+        line-height: 24px;
+        text-align: center;
+        font-size: 12px;
+    }
+     
+    .bottom_line:after {
+        content: ' ';
+        display: block;
+        height: 2px;
+        background: #fff;
+        width: 50%;
+        margin: 0px auto 0;
+    }    
+    #home .section#home-services {
+/*         padding-bottom: 0; */
+    }
+    .page #template-content li.vc_tta-tab.vc_active a {
+        border: none;
+        border-bottom: none;
+        color: #000 !important;
+    }
+    #template-content li.vc_tta-tab.vc_active {
+        border-bottom: none;
+        background: #ffffff;
+        border-bottom: 2px solid;
+    }
+    #template-content li.vc_tta-tab {
+        color: #000;
+        width: 50% !important;
+        padding: 0 !important;
+        margin: 0 !important;
+        border-bottom: 2px solid transparent;
+        width: 100% !important;
+        background: none;
+    }
+    .page #template-content li.vc_tta-tab a {
+        font-size: 24px !important;
+        text-transform: capitalize;
+        border-bottom: none;
+        color: #b6b6b6 !important;
+    }
+    #template-content .vc_tta-container .vc_tta-panels-container .vc_tta-panel .vc_tta-panel-body {
+        border: none;
+        padding: 5%;
+        width: calc(80% - 2px);
+        font-size: 14px;
+        line-height: 25px;
+    }
+    .single-villa .section#single-local-area #single-local-area-content article .text {
+        padding: 30px 50px;
+    }
+    .template#template-philosophy #philosophy-content.meet-team article .article-content h4 {
+        line-height: normal;
+    }
+
+    .ginput_container input, 
+    .ginput_container textarea {
+        margin-top: 10px !important;
+    }
+
+    #template-contact .gform_wrapper input {
+        font-size: 18px !important;
+        height: 60px;
+        line-height: 58px;
+    }
+    #template-contact .gform_wrapper input[type="submit"] {
+        line-height: normal;
+    }
+}
+
+
